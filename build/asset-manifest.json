@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/showbutler/async-button/build/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/wp-content/plugins/showbutler/async-button/build/static/js/main.910a6d49.chunk.js",
+    "main.js.map": "/wp-content/plugins/showbutler/async-button/build/static/js/main.910a6d49.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/showbutler/async-button/build/static/js/runtime-main.42806687.js",
+    "runtime-main.js.map": "/wp-content/plugins/showbutler/async-button/build/static/js/runtime-main.42806687.js.map",
+    "static/js/2.8fa0e30f.chunk.js": "/wp-content/plugins/showbutler/async-button/build/static/js/2.8fa0e30f.chunk.js",
+    "static/js/2.8fa0e30f.chunk.js.map": "/wp-content/plugins/showbutler/async-button/build/static/js/2.8fa0e30f.chunk.js.map",
+    "index.html": "/wp-content/plugins/showbutler/async-button/build/index.html",
+    "precache-manifest.ff2c692a69add5cb85238a0e1ef247bc.js": "/wp-content/plugins/showbutler/async-button/build/precache-manifest.ff2c692a69add5cb85238a0e1ef247bc.js",
+    "service-worker.js": "/wp-content/plugins/showbutler/async-button/build/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/wp-content/plugins/showbutler/async-button/build/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.8fa0e30f.chunk.js.LICENSE.txt": "/wp-content/plugins/showbutler/async-button/build/static/js/2.8fa0e30f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.42806687.js",
+    "static/js/2.8fa0e30f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.910a6d49.chunk.js"
+  ]
+}
